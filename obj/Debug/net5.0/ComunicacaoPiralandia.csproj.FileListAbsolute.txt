@@ -1,0 +1,16 @@
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.exe
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.deps.json
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.runtimeconfig.json
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.runtimeconfig.dev.json
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.dll
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\bin\Debug\net5.0\ref\ComunicacaoPiralandia.dll
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\bin\Debug\net5.0\ComunicacaoPiralandia.pdb
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.csprojAssemblyReference.cache
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.AssemblyInfoInputs.cache
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.AssemblyInfo.cs
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.csproj.CoreCompileInputs.cache
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.dll
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\obj\Debug\net5.0\ref\ComunicacaoPiralandia.dll
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.pdb
+C:\Users\Luca Simaque Souza\Desktop\ComunicacaoPiralandia\obj\Debug\net5.0\ComunicacaoPiralandia.genruntimeconfig.cache
